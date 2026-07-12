@@ -1,0 +1,66 @@
+{
+  "vibe-architect-os": [
+    "SKILL.md",
+    "references/agentic-patterns.md",
+    "references/stack-guide.md"
+  ],
+  "ai-governance-architect": [
+    "SKILL.md",
+    "references/audit-rubric.md",
+    "references/hitl-patterns.md",
+    "references/hitl-lead-patterns.md",
+    "references/integration-handoffs.md"
+  ],
+  "prd-assistant": [
+    "SKILL.md",
+    "references/prd-structure.md"
+  ],
+  "code-build-copilot": [
+    "SKILL.md",
+    "references/step-format.md",
+    "references/prompt-writing.md",
+    "references/scenarios.md"
+  ],
+  "replit-copilot": [
+    "SKILL.md",
+    "references/prompt-writing.md",
+    "references/scenarios.md",
+    "references/step-format.md"
+  ],
+  "lovable-copilot": [
+    "SKILL.md",
+    "references/prompt-writing.md",
+    "references/scenarios.md",
+    "references/step-format.md"
+  ],
+  "bolt-copilot": [
+    "SKILL.md",
+    "references/prompt-writing.md",
+    "references/scenarios.md",
+    "references/step-format.md"
+  ],
+  "v0-copilot": [
+    "SKILL.md",
+    "references/prompt-writing.md",
+    "references/scenarios.md",
+    "references/step-format.md"
+  ],
+  "base44-copilot": [
+    "SKILL.md",
+    "references/prompt-writing.md",
+    "references/scenarios.md",
+    "references/step-format.md"
+  ],
+  "ai-security-specialist": [
+    "SKILL.md",
+    "references/auth.md",
+    "references/database.md",
+    "references/api.md",
+    "references/ai-security.md",
+    "references/infrastructure.md",
+    "references/ip-protection.md",
+    "references/go-live.md",
+    "references/audit-report-template.md",
+    "scripts/generate-audit-report.py"
+  ]
+}
